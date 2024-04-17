@@ -93,7 +93,6 @@
                             }
 
                             ?>
-                                <option hidden align="center">Course</option>
                             </select>
 </div>
 </td>
